@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=twitter&logoColor=white" alt="HeadHunter Badge"/>
+    <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
   </a>
 </div>
 </div>
