@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/xxtherealyou">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://spb.hh.ru/resume/ae1f04a5ff0935b4400039ed1f486f63416654">
     <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
