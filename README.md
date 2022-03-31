@@ -1,8 +1,5 @@
-### 🚶: Aboutme :
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer)](https://git.io/typing-svg)
-
-
-
+### 🚶 Aboutme :
+Hello! My name is Vladislav.
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47bhvnrzb5ardjgx5xfhw0n8adrn5y5b5pecy2map3&rid=giphy.gif&ct=g" width="100"/>
 
@@ -36,3 +33,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxlifestyle&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxlifestyle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xxlifestyle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=xxlifestyle)](https://github.com/ryo-ma/github-profile-trophy)
