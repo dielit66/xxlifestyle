@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=head-hunter&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
