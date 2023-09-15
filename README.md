@@ -1,5 +1,3 @@
-### 🚶 Aboutme :
-
 <div id="header" align="center">
   <img src="https://github.com/xxlifestyle/xxlifestyle/blob/main/black-header.png"/>
 
