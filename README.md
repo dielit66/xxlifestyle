@@ -30,5 +30,6 @@ Hello! My name is Vladislav.
             
 
 ### :fire: My Stats :
+<img src="https://myreadme.vercel.app/api/embed/xxlifestyle?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxlifestyle)](https://github.com/madushadhanushka/github-readme)
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
