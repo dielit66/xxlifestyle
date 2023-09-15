@@ -30,6 +30,5 @@ Hello! My name is Vladislav.
   
             
 
-### :fire: My Stats :
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xxlifestyle)](https://github.com/madushadhanushka/github-readme)
 
